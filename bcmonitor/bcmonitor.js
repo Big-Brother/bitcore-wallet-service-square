@@ -2,7 +2,7 @@
 
 'use strict';
 
-var _ = require('l*o*d*a*s*h');
+var _ = require('lodash');
 var log = require('npmlog');
 log.debug = log.verbose;
 
